@@ -4,7 +4,7 @@ const express = require('express');
 const botArgs = {
     host: 'Mohtasebandsawalmeh.aternos.me',
     port: 54622,
-    username: 'AFK_Bot_24',
+    username: '3bsi',
     version: '1.21.5'
 };
 
